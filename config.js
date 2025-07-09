@@ -1,7 +1,7 @@
 window.config={
     logo: 'https://img2.imgtp.com/2024/03/11/YzU8iDJp.png', // 网站logo
     title:"AirBus", // 网站标题
-    host:"https://user.r8s.top/", // 后端接口地址
+    host:"https://api.kl8s.com/", // 后端接口地址
     storeHome: {
         title: '选择最适合你的订阅计划', // 套餐页标题
         description: '若您已购买订阅且当前未过期，再次购买相同套餐将在原过期时间上追加时长，购买其他套餐则对原有订阅进行折抵' // 套餐页描述
@@ -19,36 +19,36 @@ window.config={
                 key: 'windows',
                 title: 'Windows客户端',
                 icon: 'ri:windows-fill',
-                downloadLink: 'https://www.microsoft.com/zh-cn', // Windows客户端下载地址
-                knowledgeLink: '/dashboard/knowledge/10', // 使用教程地址
+                downloadLink: 'https://clashapp.download/clash-download#Windows', // Windows客户端下载地址
+                knowledgeLink: 'https://clashapp.download/topic/clash-windows', // 使用教程地址
             },
             {
                 key: 'mac',
                 title: 'Mac客户端',
                 icon: 'ri:finder-fill',
-                downloadLink: 'https://www.apple.com/macos/sonoma/', // Mac客户端下载地址
-                knowledgeLink: '/dashboard/knowledge/8', // 使用教程地址
+                downloadLink: 'https://clashapp.download/clash-download#MacOS', // Mac客户端下载地址
+                knowledgeLink: 'https://clashapp.download/topic/clash-macos', // 使用教程地址
             },
             {
                 key: 'android',
                 title: 'Android客户端',
                 icon: 'ri:android-fill',
-                downloadLink: 'https://www.google.com/', // Android客户端下载地址
-                knowledgeLink: '/dashboard/knowledge/11', // 使用教程地址
+                downloadLink: 'https://clashapp.download/clash-download#Android', // Android客户端下载地址
+                knowledgeLink: 'https://clashapp.download/topic/clash-android', // 使用教程地址
             },
             {
                 key: 'ios',
                 title: 'iOS客户端',
                 icon: 'ri:apple-fill',
-                downloadLink: 'https://www.apple.com/ios/ios-17/', // iOS客户端下载地址
-                knowledgeLink: '/dashboard/knowledge/12', // 使用教程地址
+                downloadLink: 'https://clashapp.download/clash-download#iOS', // iOS客户端下载地址
+                knowledgeLink: 'https://clashapp.download/topic/clash-ios', // 使用教程地址
             },
             {
                 key: 'knowledge',
                 title: '查看其它教程',
                 icon: 'ri:questionnaire-fill',
                 downloadLink: null,
-                knowledgeLink: '/dashboard/knowledge', // 使用教程地址
+                knowledgeLink: 'https://clashapp.download', // 使用教程地址
             }
         ],
     },
