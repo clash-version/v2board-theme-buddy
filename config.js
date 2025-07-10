@@ -1,5 +1,5 @@
 window.config={
-    logo: '/assets/bappybus1.png', // 网站logo
+    logo: '/assets/happybus1.png', // 网站logo
     title:"Happy Bus", // 网站标题
     host:"https://api.kl8s.com/", // 后端接口地址
     storeHome: {
