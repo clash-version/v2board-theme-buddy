@@ -5,8 +5,8 @@
 ![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/M9IVJMR2HT8G8.4ub4f0ccif.webp)
 
 <div align="center">
-    <a href="https://r8d.pro"><img src="https://github.com/dc8683/picx-images-hosting/raw/master/AirBus-LOGO@1x.4xups4vz5r.webp" alt="airbuddy rocket theme" width="150" /></a>
-    <h1>AirBus Theme</h1>
+    <a href="https://r8d.pro"><img src="https://github.com/dc8683/picx-images-hosting/raw/master/快乐巴士-LOGO@1x.4xups4vz5r.webp" alt="airbuddy rocket theme" width="150" /></a>
+    <h1>快乐巴士 Theme</h1>
     <p><b>🚀 以用户体验、新用户转化率、老客户续费率等商业价值目标打造高品质主题 🚀</b></p>
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 主题信息
 
-* 主题名称：AirBus
+* 主题名称：快乐巴士
 * 环境兼容 : [**v2board**](https://github.com/wyx2685/v2board)
 * 主题价格 : **永久开源免费**
 * 主题频道：[🚀 AirBuddy Theme](https://t.me/v2board_buddy)
@@ -23,13 +23,13 @@
 
 ## 主题介绍
 
-![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/AirBus.6ikhc6lkwn.webp)
-![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/AirBus.969xmjem8o.webp)
-![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/AirBus.7w70g7wmxd.webp)
-![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/AirBus.7i0kpcoc2c.webp)
-![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/AirBus.1zig97g3yq.webp)
-![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/AirBus.23226x96oe.webp)
-![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/AirBus.6ikhc6lkwd.webp)
+![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/快乐巴士.6ikhc6lkwn.webp)
+![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/快乐巴士.969xmjem8o.webp)
+![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/快乐巴士.7w70g7wmxd.webp)
+![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/快乐巴士.7i0kpcoc2c.webp)
+![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/快乐巴士.1zig97g3yq.webp)
+![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/快乐巴士.23226x96oe.webp)
+![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/快乐巴士.6ikhc6lkwd.webp)
 
 
 ## 主题定制
@@ -51,13 +51,13 @@ v2board/xboard 新增路由文件，无需用户先注册再购买，用户选�
 
 ![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/custom02-01.7axctw4nrd.webp)
 ![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/custom02-02.2a5a2bxt8r.webp)
-![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/AirBus.969xmj23s2.webp)
+![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/快乐巴士.969xmj23s2.webp)
 
 ### 3.自定义布局、自定义主题风格
 
 根据用户需求，自定义为上下布局布局、自定义主题风格，实现个性化定制，提高用户体验API
 
-![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/AirBus.5c163kio9q.webp)
+![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/快乐巴士.5c163kio9q.webp)
 ![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/custom3-5.3d4zd7zlu7.webp)
 ![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/custom3-2.pfj2v6kia.webp)
 
