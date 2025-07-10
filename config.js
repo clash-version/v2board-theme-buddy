@@ -13,7 +13,7 @@ window.config={
         inviteCodeEdit: false, // 是否允许用户修改邀请码
     },
     homeClient: {
-        display: true, // 是否显示客户端下载教程卡片
+        display: false, // 是否显示客户端下载教程卡片
         clients: [
             {
                 key: 'windows',
