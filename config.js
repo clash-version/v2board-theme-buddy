@@ -1,6 +1,6 @@
 window.config={
-    logo: '', // 网站logo
-    title:"快乐巴士", // 网站标题
+    logo: '/assets/bappybus1.png', // 网站logo
+    title:"Happy Bus", // 网站标题
     host:"https://api.kl8s.com/", // 后端接口地址
     storeHome: {
         title: '选择最适合你的订阅计划', // 套餐页标题
